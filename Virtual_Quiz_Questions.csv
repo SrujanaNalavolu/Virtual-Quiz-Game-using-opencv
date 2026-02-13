@@ -1,0 +1,6 @@
+Question,Option1,Option2,Option3,Option4,Answer
+Which of these is a numeric datatype?,String,Integer,Tuple,Set,2
+Which of these operator is evaluated last?,Add,Multiply,Exponent,Assignment,4
+Which of these supports inheritance?,Function,Module,Class,Package,3
+Which of these datatype stores key-value pairs?,Dict,List,Tuple,Set,1
+Which of these operator is right associative?,*,**,+,%,2
