@@ -1,1 +1,2 @@
 # Virtual-Quiz-Game-using-opencv
+Traditional quiz systems depend on physical input devices like keyboards, mice, or touchscreens, which limit user interaction and accessibility. These methods are not always convenient or hygienic, especially in shared learning environments. With the rise of digital education, there is a need for a more interactive and contactless solution. This project addresses the problem by introducing a gesture-controlled virtual quiz game using hand gestures and a webcam to improve user engagement and accessibility.
